@@ -3,18 +3,19 @@
 ## Languages and Tools
 <p align="center">
 <a href="https://github.com/Vaidik-Bhongade">
-  <img src="[https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,git,github,githubactions,go,html,js,linux,mongodb,mysql,neovim,nginx,nodejs,postgres,postman,prisma,py,react,sqlite,tailwind,ts](https://skillicons.dev/icons?i=kali,c,cpp,python,html,css,javascript,react,linux,mysql,figma,git,github,postman,powershell,pycharm,regex,tensorflow,ubuntu,vscode,windows,bash)">
+  <img src="https://skillicons.dev/icons?i=kali,c,cpp,python,html,css,javascript,react,linux,mysql,figma,git,github,postman,powershell,pycharm,regex,tensorflow,ubuntu,vscode,windows,bash">
 <!-- const fs = require('fs');
 
-const iconsDir = fs.readdirSync('./icons');
-const icons = {};
-for (const icon of iconsDir) {
-  const name = icon.replace('.svg', '').toLowerCase();
-  icons[name] = String(fs.readFileSync(`./icons/${icon}`));
-}
+    const iconsDir = fs.readdirSync('./icons');
+    const icons = {};
+    for (const icon of iconsDir) {
+      const name = icon.replace('.svg', '').toLowerCase();
+      icons[name] = String(fs.readFileSync(`./icons/${icon}`));
+    }
+    if (!fs.existsSync('./dist')) fs.mkdirSync('./dist');
+    fs.writeFileSync('./dist/icons.json', JSON.stringify(icons)); 
+  -->
 
-if (!fs.existsSync('./dist')) fs.mkdirSync('./dist');
-fs.writeFileSync('./dist/icons.json', JSON.stringify(icons)); -->
   <!--
     Potential more icons are
      wireshark,nmap, etercap,burpsuite,john,aircrack,wifite,metasploit framework
