@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=1000&color=FFFFFF&center=true&multiline=true&random=false&width=435&height=80&lines=+01101000+01101001%F0%9F%91%8B%F0%9F%8F%BC%2C+I+am+Vaidik+Bhongade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=1000&color=FFFFFF&center=true&multiline=true&random=false&height=35&lines=+01101000+01101001%F0%9F%91%8B%F0%9F%8F%BC%2C+I+am+Vaidik+Bhongade)](https://git.io/typing-svg)
 
 ## Languages and Tools
 <p align="center">
