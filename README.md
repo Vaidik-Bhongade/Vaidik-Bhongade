@@ -31,9 +31,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://raw.githubusercontent.com/Vaidik-Bhongade/Vaidik-Bhongade/output/snake.svg" alt="Snake animation" />
-
-###
+![Snake Animation](https://github.com/Vaidik-Bhongade/Vaidik-Bhongade/blob/main/snake_animation.gif)
 
 <!---
 Vaidik-Bhongade/Vaidik-Bhongade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
