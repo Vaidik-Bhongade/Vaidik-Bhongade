@@ -31,6 +31,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![snake gif](https://github.com/Vaidik-Bhongade/Vaidik-Bhongade/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 Vaidik-Bhongade/Vaidik-Bhongade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
