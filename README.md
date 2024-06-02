@@ -16,7 +16,7 @@
 
 - 👋 Hi, I’m @Vaidik-Bhongade
 - 👀 I’m interested in Cybersecurity, Machine Learning & UI/UX 
-- 🌱 I’m currently learning WebDev
+- 🌱 I’m currently learning SIEM Technology
 - 💞️ I’m looking to collaborate on CyberSpace
 
 <!-- snake game -->
