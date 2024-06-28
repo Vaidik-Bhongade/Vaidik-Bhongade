@@ -16,7 +16,7 @@
 
 - 👋 Hi, I’m @Vaidik-Bhongade
 - 👀 I’m interested in Cybersecurity, Machine Learning & UI/UX 
-- 🌱 I’m currently learning SIEM Technology
+- 🌱 I’m currently learning SOC Analyst, along with LLM model and Deep Learning
 - 💞️ I’m looking to collaborate on CyberSpace
 
 <!-- snake game -->
